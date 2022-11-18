@@ -1,7 +1,7 @@
 import java.util.*;
 public class pandc
 {
-   int n,r;
+   int n,r;       
    public void accept()
    {
      Scanner obj=new Scanner(System.in);
